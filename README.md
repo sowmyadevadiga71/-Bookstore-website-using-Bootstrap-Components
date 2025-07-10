@@ -15,9 +15,9 @@ This is a simple and responsive bookstore website built using **HTML**, **CSS**,
 
 ## 💻 Technologies Used
 
-- HTML5  
-- CSS3  
-- Bootstrap 5  
+- HTML 
+- CSS 
+- Bootstrap   
 
 ---
 
